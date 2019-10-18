@@ -1,0 +1,11 @@
+[package]
+name = "two-fifty-six"
+version = "0.1.0"
+authors = ["Anders Kaseorg <andersk@mit.edu>"]
+edition = "2018"
+
+[dependencies]
+image = "0.22.3"
+rand = "0.7.2"
+rayon = "1.2.0"
+soup = "0.4.1"
